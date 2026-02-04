@@ -1,0 +1,3 @@
+Taka,Tokyo,Engineer
+Yui,Osaka,Designer
+Kenta,Fukuoka,Marketer
